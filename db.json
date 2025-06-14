@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "62a0c60f-1789-48d5-8310-feb1768e4d97",
+      "name": "Abhi",
+      "email": "a@x.com",
+      "password": "123456",
+      "isEmailVerified": false
+    },
+    {
+      "id": "d8f52c69-a8eb-4e2d-88c7-4118ae94a961",
+      "name": "Abhi",
+      "email": "b@x.com",
+      "password": "123456",
+      "isEmailVerified": false
+    }
+  ]
+}
