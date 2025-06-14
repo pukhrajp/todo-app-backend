@@ -13,6 +13,30 @@
       "email": "b@x.com",
       "password": "123456",
       "isEmailVerified": false
+    },
+    {
+      "id": "9b16df15-a21b-436e-a537-ea8d40b6a57d",
+      "isEmailVerified": false
+    },
+    {
+      "id": "d01e7f65-455a-40f9-8c58-7dff1ce3bce5",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "isEmailVerified": false
+    },
+    {
+      "id": "ee8300d5-66e3-4967-83f9-eb6e76ccec6e",
+      "name": "Sunil hatila",
+      "email": "sunil@gmail.com",
+      "password": 123456789,
+      "isEmailVerified": false
+    },
+    {
+      "id": "3aee9c6b-ecec-4e1e-b52c-37967b731353",
+      "name": "Yash",
+      "email": "yash@gmail.com",
+      "password": "y@123",
+      "isEmailVerified": false
     }
   ]
 }
