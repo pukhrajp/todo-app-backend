@@ -29,7 +29,7 @@ app.post("/users", (req, res) => {
   const { name, email, password } = req.body;
   const user = db.users.find((u) => u.email === email);
   if (user) {
-    return res.status(400).send("User already exists with this email");
+    return res.status(400).send("User already exists with this email address");
   }
   const newUser = {
     id: v4(),

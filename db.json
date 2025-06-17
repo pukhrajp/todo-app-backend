@@ -37,6 +37,48 @@
       "email": "yash@gmail.com",
       "password": "y@123",
       "isEmailVerified": false
+    },
+    {
+      "id": "fc573bbf-b308-4f6b-bebe-edd51d3efae6",
+      "name": "Sidharth",
+      "email": "sidh@gmail.com",
+      "password": "sidh@123",
+      "isEmailVerified": false
+    },
+    {
+      "id": "972d1128-00a2-49f3-a20d-178f5cd295bb",
+      "name": "Suresh",
+      "email": "suresh@gmail.com",
+      "password": "suresh@123",
+      "isEmailVerified": false
+    },
+    {
+      "id": "a01ffd1f-0ee9-4168-a31e-e33e94aa7a1c",
+      "name": "Suresh",
+      "email": "sureshkumar@gmail.com",
+      "password": "suresh@123",
+      "isEmailVerified": false
+    },
+    {
+      "id": "6980fe49-ad2e-4557-bed7-a703cd58bd19",
+      "name": "sunil",
+      "email": "sh@gmail.com",
+      "password": "123456789",
+      "isEmailVerified": false
+    },
+    {
+      "id": "cb9860f3-0735-42bb-bd8c-d3613e1aaeb3",
+      "name": "sunil",
+      "email": "shatila@gmail.com",
+      "password": "123456789",
+      "isEmailVerified": false
+    },
+    {
+      "id": "6f63045d-887f-4a2b-9dcc-87473e5930d1",
+      "name": "sunil",
+      "email": "s@gmail.com",
+      "password": "123456",
+      "isEmailVerified": false
     }
   ]
 }
