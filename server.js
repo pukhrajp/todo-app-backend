@@ -5,6 +5,7 @@ const cors = require("cors");
 const { db, updateDatabase } = require("./lib/db");
 
 const app = express();
+
 app.use(cors());
 app.use(bodyParser.json());
 /**
