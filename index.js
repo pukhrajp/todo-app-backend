@@ -65,7 +65,7 @@ app.post("/signup", (req, res) => {
   const existingUser = users.find((u) => u.email === email);
 
   if (existingUser) {
-    return res.status(400).send("User already exists with this email");
+    return res.status(400).send("User already exists with this email address");
   }
 
   const newUser = {
