@@ -1,3 +1,58 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "46334efd-7880-41fe-8e13-13ecf984f9e0",
+      "name": "John Smith",
+      "email": "m@example.com",
+      "password": "123456",
+      "isEmailVerified": true,
+      "tokens": [
+        "e9852e0b-7d23-4819-8a04-7043343ef571",
+        "d6a0fe9f-4130-4e2f-88f4-1a60a5cdbd38",
+        "adac1c42-02b5-46e2-bc5f-0d9dae7c37fd",
+        "383181a8-ccaa-4fc9-8d1d-43e9ce01634c",
+        "809bde7b-a71a-4c7e-beca-2a2849d4e96c"
+      ],
+      "otp": 780317
+    },
+    {
+      "id": "b1c6ceae-8dd4-4b5b-ace4-466341992391",
+      "name": "Abhi",
+      "email": "abhi@example.com",
+      "password": "123456",
+      "isEmailVerified": true,
+      "tokens": [
+        "586c3df5-bfdb-41e7-9a47-c40b99778f44"
+      ],
+      "otp": 567864
+    }
+  ],
+  "todos": [
+    {
+      "id": "6e2426e6-ac3b-46df-82df-211078db3565",
+      "title": "This is todo for Abhi",
+      "completed": false,
+      "userId": "b1c6ceae-8dd4-4b5b-ace4-466341992391"
+    },
+    {
+      "id": "fe140d61-b6de-4e85-a054-04e6ee03198d",
+      "title": "This is second todo for Abhi",
+      "completed": false,
+      "userId": "b1c6ceae-8dd4-4b5b-ace4-466341992391"
+    },
+    {
+      "id": "19697c7e-addd-41dc-b3b2-bd57d73ca636",
+      "title": "fsdfdsf",
+      "completed": false,
+      "userId": "46334efd-7880-41fe-8e13-13ecf984f9e0"
+    }
+  ],
+  "members": [
+    {
+      "id": "051a84d3-be6c-4860-ad0c-31f972060f18",
+      "senderId": "46334efd-7880-41fe-8e13-13ecf984f9e0",
+      "receiverId": "b1c6ceae-8dd4-4b5b-ace4-466341992391",
+      "status": "invited"
+    }
+  ]
 }
