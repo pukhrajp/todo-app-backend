@@ -1,3 +1,24 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "d67d5373-ef05-43d0-8bf3-2e69fca6f3cc",
+      "name": "sunil",
+      "email": "sunil@gmail.com",
+      "password": "1234567",
+      "isEmailVerified": false,
+      "tokens": [
+        "5c53c481-54d7-424e-909d-a7942e9a5687"
+      ]
+    },
+    {
+      "id": "6dabfbea-93c9-4eff-93f6-31014633b5ff",
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "456123",
+      "isEmailVerified": false,
+      "tokens": [
+        "a8895c67-2db7-48fa-9591-cd2518f592f9"
+      ]
+    }
+  ]
 }
