@@ -123,6 +123,35 @@ app.get("/verify-otp/:otp", (req, res) => {
   res.redirect("http://localhost:5173");
 });
 
+app.get("/todos", (req, res) => {
+  const user = getUserByToken1(db.users, req);
+  if (!user) {
+    return res.status(401).send("Unauthorized");
+  }
+  const todos = db.todos.filter((todo) => todo.userId === user.id);
+  res.send({ todos });
+});
+
+app.post("/todos", (req, res) => {
+  const user = getUserByToken1(db.users, req);
+  if (!user) {
+    return res.status(401).send("Unauthorized");
+  }
+  const { title, completed } = req.body;
+  const newTodo = {
+    id: v4(),
+    title,
+    completed,
+    userId: user.id,
+  };
+  db.todos.push(newTodo);
+  updateDatabase();
+  res.send({
+    message: "Todo created successfully",
+    todo: newTodo,
+  });
+});
+
 app.listen(8000, () => {
   console.log("Server is running on port 8000");
 });
