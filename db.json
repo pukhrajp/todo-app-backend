@@ -7,6 +7,7 @@
       "password": "123456",
       "isEmailVerified": false,
       "tokens": [
+<<<<<<< HEAD
         "e9852e0b-7d23-4819-8a04-7043343ef571",
         "d6a0fe9f-4130-4e2f-88f4-1a60a5cdbd38",
         "adac1c42-02b5-46e2-bc5f-0d9dae7c37fd",
@@ -48,6 +49,13 @@
         "86ad0553-bfa5-4bed-9293-a912504edba3"
       ],
       "otp": 433015
+=======
+        "cda5dc1d-fcad-4794-a39c-aef8ef18110c",
+        "3c3c3b08-3077-4c6c-87ca-bfca09784a63",
+        "b55d29cd-49c0-45ea-8e3a-c1a9fafde4fd",
+        "98ba4238-73d1-4cc2-b4fe-cb189965908c"
+      ]
+>>>>>>> d9e2cbd9d9fc8ce92088d41f1dc84e4fbe5f475a
     },
     {
       "id": "b1c6ceae-8dd4-4b5b-ace4-466341992391",
@@ -60,6 +68,16 @@
         "98cd238a-31bf-448f-91e6-e394b2b31d48"
       ],
       "otp": 567864
+    },
+    {
+      "id": "cc8b3b9a-8bb1-4eda-8f4b-9e3fbb7ad8e4",
+      "name": "Sachin",
+      "email": "sachin@gmail.com",
+      "password": "123456",
+      "isEmailVerified": false,
+      "tokens": [
+        "08dba9a1-aae3-4e6d-9b6b-54bf9ac920e5"
+      ]
     }
   ],
   "todos": [
@@ -79,6 +97,36 @@
       "id": "19697c7e-addd-41dc-b3b2-bd57d73ca636",
       "title": "fsdfdsf",
       "completed": false,
+      "userId": "46334efd-7880-41fe-8e13-13ecf984f9e0"
+    },
+    {
+      "id": "e395e345-2f25-4e23-97f9-ed40616c4b55",
+      "title": "My next todo",
+      "completed": false,
+      "userId": "46334efd-7880-41fe-8e13-13ecf984f9e0"
+    },
+    {
+      "id": "c60d804f-4717-4659-8226-8450ef779f52",
+      "title": "Another todo",
+      "completed": false,
+      "userId": "46334efd-7880-41fe-8e13-13ecf984f9e0"
+    },
+    {
+      "id": "b2302840-76b0-4862-a6d8-42368adddf33",
+      "title": "Last todo",
+      "completed": false,
+      "userId": "46334efd-7880-41fe-8e13-13ecf984f9e0"
+    },
+    {
+      "id": "7026ce3d-5a49-475e-9998-8692ac6b4c1d",
+      "title": "My another todo",
+      "completed": true,
+      "userId": "46334efd-7880-41fe-8e13-13ecf984f9e0"
+    },
+    {
+      "id": "b4f46568-7dcf-44e5-ab56-9ae71b7cee89",
+      "title": "My another todo item x",
+      "completed": true,
       "userId": "46334efd-7880-41fe-8e13-13ecf984f9e0"
     }
   ],
