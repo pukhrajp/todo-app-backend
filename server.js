@@ -93,7 +93,9 @@ app.post("/users", (req, res) => {
 });
 
 app.get("/send-otp", (req, res) => {
+  console.log("Token received:", req.headers.authorization);
   const user = getUserByToken1(db.users, req);
+  console.log("User found:", user);
   if (!user) {
     return res.status(401).send("Unauthorized");
   }

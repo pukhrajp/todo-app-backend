@@ -5,9 +5,8 @@
       "name": "John Smith",
       "email": "m@example.com",
       "password": "123456",
-      "isEmailVerified": false,
+      "isEmailVerified": true,
       "tokens": [
-<<<<<<< HEAD
         "e9852e0b-7d23-4819-8a04-7043343ef571",
         "d6a0fe9f-4130-4e2f-88f4-1a60a5cdbd38",
         "adac1c42-02b5-46e2-bc5f-0d9dae7c37fd",
@@ -46,16 +45,11 @@
         "1d0d6b24-6cbd-4fed-91b9-9ad4a1fc0b2e",
         "59db7bd4-c7dc-4ae3-81b4-1fd0780d70fe",
         "a30f4f2f-924c-4ee7-b5d4-15c1d90d1d01",
-        "86ad0553-bfa5-4bed-9293-a912504edba3"
-      ],
-      "otp": 433015
-=======
-        "cda5dc1d-fcad-4794-a39c-aef8ef18110c",
-        "3c3c3b08-3077-4c6c-87ca-bfca09784a63",
-        "b55d29cd-49c0-45ea-8e3a-c1a9fafde4fd",
-        "98ba4238-73d1-4cc2-b4fe-cb189965908c"
+        "86ad0553-bfa5-4bed-9293-a912504edba3",
+        "1a2421a7-efac-47a5-873f-66e9c254d325",
+        "eff94ba9-df1d-44c1-b516-8f1ff0079288",
+        "38864547-53b6-4acd-9b58-094c33c5c1dd"
       ]
->>>>>>> d9e2cbd9d9fc8ce92088d41f1dc84e4fbe5f475a
     },
     {
       "id": "b1c6ceae-8dd4-4b5b-ace4-466341992391",
@@ -127,6 +121,30 @@
       "id": "b4f46568-7dcf-44e5-ab56-9ae71b7cee89",
       "title": "My another todo item x",
       "completed": true,
+      "userId": "46334efd-7880-41fe-8e13-13ecf984f9e0"
+    },
+    {
+      "id": "c5a9502c-99f2-4463-a9f4-6e029053775c",
+      "title": "my new todo created todya",
+      "completed": false,
+      "userId": "46334efd-7880-41fe-8e13-13ecf984f9e0"
+    },
+    {
+      "id": "69d75493-084c-4cff-be7a-4ae0dac7a894",
+      "title": "another shadcn todo",
+      "completed": false,
+      "userId": "46334efd-7880-41fe-8e13-13ecf984f9e0"
+    },
+    {
+      "id": "d01d7961-9114-492b-9726-06dcc69963ae",
+      "title": "adding another todo",
+      "completed": false,
+      "userId": "46334efd-7880-41fe-8e13-13ecf984f9e0"
+    },
+    {
+      "id": "ecfd4739-156d-45b2-b4bf-d17e83378bcc",
+      "title": "adding one more time",
+      "completed": false,
       "userId": "46334efd-7880-41fe-8e13-13ecf984f9e0"
     }
   ],
