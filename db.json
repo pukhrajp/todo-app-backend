@@ -8,46 +8,7 @@
       "isEmailVerified": true,
       "tokens": [
         "e9852e0b-7d23-4819-8a04-7043343ef571",
-        "d6a0fe9f-4130-4e2f-88f4-1a60a5cdbd38",
-        "adac1c42-02b5-46e2-bc5f-0d9dae7c37fd",
-        "383181a8-ccaa-4fc9-8d1d-43e9ce01634c",
-        "809bde7b-a71a-4c7e-beca-2a2849d4e96c",
-        "61e78a5b-6e16-4b2c-9949-81e58c355d45",
-        "32e1c6eb-0b80-4aaf-ab37-add1f08ae2f5",
-        "31ee0924-d65d-4314-a533-5b77670b0621",
-        "d1987949-13a8-4a4b-a87f-c8af7d622542",
-        "88ae7a0d-15fc-47e5-8193-3363bbec38e5",
-        "cd978f2d-0ecc-445f-98f2-d1acafaf519d",
-        "f683619f-c386-49f5-bdcf-e51da0baabc3",
-        "e780df39-1178-4ed7-af63-4ff90323ba6b",
-        "fb894f69-e4e3-4dd3-9998-bf64592f76c6",
-        "5d8c7268-8009-4128-80fc-36cdd7208986",
-        "b5c60686-d72b-457d-b3f1-3a359cac5b86",
-        "32a0be5d-8c30-4837-9920-ca3f6d16cca8",
-        "8ae90daf-18cf-4a71-ba2d-4508018caabb",
-        "b005eefa-492f-4215-95b7-fe95dbeda61f",
-        "874a44db-72cc-4bff-bf28-e8df3e009a73",
-        "fe7aede6-b339-4f5c-bffc-69147e4d00d2",
-        "4c2168b7-d157-42b6-9d5d-b39f5b503b3f",
-        "53fc29cd-37bc-4927-a897-8100f6352c87",
-        "aa287041-b7c6-48d3-9f55-140ce6be3ec1",
-        "facb5df2-57ab-4480-9fe8-ff833c1015ad",
-        "d486ed6f-6890-4806-ae0b-b594c378361f",
-        "ee6c4996-2014-4e14-88fe-d369d26c1934",
-        "ff1da5e9-8a38-4bda-98b8-475f98677a2e",
-        "a775c935-99b7-4134-94bf-da9bee112dac",
-        "601087f2-2fda-44d6-a67e-60b186d5f9bb",
-        "c480157f-bd88-4982-8a93-518178ad0a2b",
-        "50aaaf93-eccb-4087-8ec7-4fab21aa4448",
-        "bfa50108-0b02-48df-b18c-42cd8c1a29e1",
-        "e3822ff0-7744-49e1-bf67-18ec54cdd6ee",
-        "7a971129-3d51-414c-90bf-376eed88e70d",
-        "1d0d6b24-6cbd-4fed-91b9-9ad4a1fc0b2e",
-        "59db7bd4-c7dc-4ae3-81b4-1fd0780d70fe",
-        "a30f4f2f-924c-4ee7-b5d4-15c1d90d1d01",
-        "86ad0553-bfa5-4bed-9293-a912504edba3",
-        "1a2421a7-efac-47a5-873f-66e9c254d325",
-        "eff94ba9-df1d-44c1-b516-8f1ff0079288",
+
         "38864547-53b6-4acd-9b58-094c33c5c1dd"
       ]
     },
@@ -69,9 +30,7 @@
       "email": "sachin@gmail.com",
       "password": "123456",
       "isEmailVerified": false,
-      "tokens": [
-        "08dba9a1-aae3-4e6d-9b6b-54bf9ac920e5"
-      ]
+      "tokens": ["08dba9a1-aae3-4e6d-9b6b-54bf9ac920e5"]
     }
   ],
   "todos": [
